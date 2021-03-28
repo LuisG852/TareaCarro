@@ -1,0 +1,15 @@
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\bin\Debug\Tarea Carro.exe.config
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\bin\Debug\Tarea Carro.exe
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\bin\Debug\Tarea Carro.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\obj\Debug\Tarea Carro.csprojAssemblyReference.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\obj\Debug\Tarea_Carro.Properties.Resources.resources
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\obj\Debug\Tarea Carro.csproj.GenerateResource.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\obj\Debug\Tarea Carro.csproj.CoreCompileInputs.cache
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\obj\Debug\Tarea Carro.exe
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\obj\Debug\Tarea Carro.pdb
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\obj\Debug\Tarea_Carro.labelEstadoVelocidad.resources
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\bin\Debug\Interop.WMPLib.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\obj\Debug\Interop.WMPLib.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Wicho\Desktop\Tercer semestre\Progra\Tarea Carro\Tarea Carro\Tarea Carro\obj\Debug\Tarea Carro.csproj.ResolveComReference.cache
